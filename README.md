@@ -138,6 +138,19 @@ In the end we are left with a cross validation framework that can be applied to 
 GitHub link : https://github.com/abhishekkrthakur/mlframework
 
 
+### 6) Episode 5: Entity Embeddings for Categorical Variables
+
+Mar 17, 2020
+
+In this episode, I discuss what entity #embeddings for #categorical #variables are and how to implement them using tensorflow/keras. 
+
+I have used the data from a Kaggle competition: https://www.kaggle.com/c/cat-in-the-dat-ii for this video.
+
+The task in this video is to convert the keras model to pytorch.
+
+You can find the full kernel here: https://www.kaggle.com/abhishek/same-old-entity-embeddings
+
+
 ### 3.3 BERT
 
 

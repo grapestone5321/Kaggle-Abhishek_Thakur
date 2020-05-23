@@ -142,6 +142,8 @@ GitHub link : https://github.com/abhishekkrthakur/mlframework
 
 Mar 17, 2020
 
+https://arxiv.org/pdf/1604.06737.pdf
+
 In this episode, I discuss what entity #embeddings for #categorical #variables are and how to implement them using tensorflow/keras. 
 
 I have used the data from a Kaggle competition: https://www.kaggle.com/c/cat-in-the-dat-ii for this video.

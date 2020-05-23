@@ -118,8 +118,30 @@ Sandesh library is available on pip: pip install sandesh and github repo is here
 
 ### 6)
 
-Abhishek Thakur
-1 / 6
+### 3.2 Applied Machine Learning Framework
+
+
+### 3) Episode 2: A Cross Validation Framework
+
+Premiered Jan 5, 2020
+
+https://www.youtube.com/watch?v=2wQlD46eICE&list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw&index=3
+
+This is the second episode of my video series on applied #machinelearning.
+
+In this episode, we talk about the need for #cross #validation and different types of cross-validation. 
+
+We also see how one can implement a re-usable cross validation framework.
+
+In the end we are left with a cross validation framework that can be applied to almost all kinds of machine learning problem.
+
+GitHub link : https://github.com/abhishekkrthakur/mlframework
+
+
+
+
+
+
 
 
 

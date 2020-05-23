@@ -204,4 +204,68 @@ Like, Subscribe & Share ;)
 #Sentiment #BERT #DeepLearning
 
 
+### 3.4 vlogs
+
+### 1) My Journey: How I Became The World's First 4x (and 3x) Grand Master On Kaggle
+
+Feb 29, 2020
+
+https://www.youtube.com/watch?v=z15TKkAPNUM&list=PL98nY_tJQXZl56Iyevs0D2CYEfmkGmKo2
+
+Since a lot of people have asked me about my journey to become the world's first 4x grand master (and also first 3x grand master) on Kaggle and since I am not into blogs, I decided to rather make a YouTube video about it. 
+
+I hope you like it :)
+
+If you have any questions, feel free to ask me in comments. 
+
+I try my best to reply/answer each comment that I receive.
+
+#Kaggle #GrandMaster #MachineLearning
+
+### 2) 10K Subscribers: Approaching (almost) Any Machine Learning Problem and Talk Show
+
+Apr 11, 2020
+
+https://www.youtube.com/watch?v=eXLcpsrcyGk&list=PL98nY_tJQXZl56Iyevs0D2CYEfmkGmKo2&index=2
+
+
+Thank you everyone for their support. 
+
+I have reached 10k subscribers and I have a couple of things I would like to announce in this video.
+
+If you want to be the first one to know when the book: Approaching (almost) Any Machine Learning Problem is available for purchase, fill out this short form: https://bit.ly/approachingalmost
+
+If you want to join as a guest in the talk show to discuss your cool project, fill out this form: https://bit.ly/AbhishekTalks
+
+
+
+### 3) How do I start my career in Data Science?
+
+May 16, 2020
+
+https://www.youtube.com/watch?v=BFFM1JRo14E&list=PL98nY_tJQXZl56Iyevs0D2CYEfmkGmKo2&index=3
+
+In this video, I provide my views on how you can start your career in data science. 
+
+I collected a lot of questions from my followers and connections on Twitter and LinkedIn and have started posting vlog kind of videos which answer these questions. This is the first video of the Q&A series.
+
+In this video, you can find answers to questions like:
+
+- What courses need to be learnt for becoming a data scientist?
+- Should you do MBA / MS in Data Science? What would be beneficial in the long run?
+- Does a PhD help in getting into data science?
+- Should one's PhD thesis be in line with the industry or can one do theoretical work and still hope to get into the industry
+- How much of stats should I know to become a data scientist
+- What are your views on kaggle’s micro courses ?
+- Is command over tools like tensor flow, pytorch of utmost importance ?
+- How to bag first internship in the field of data science
+
+If you want to ask questions around this topic of #DataScience #MachineLearning, you can use this link: https://bit.ly/2WgSN33
+
+
+
+
+
+
+
 

@@ -138,10 +138,70 @@ In the end we are left with a cross validation framework that can be applied to 
 GitHub link : https://github.com/abhishekkrthakur/mlframework
 
 
+### 3.3 BERT
+
+
+### 1) BERT on Steroids: Fine-tuning BERT for a dataset using PyTorch and Google Cloud TPUs
+
+Jan 26, 2020
+
+https://www.youtube.com/watch?v=B_P0ZIXspOU&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH&index=1
+
+In this special episode, I show how to train #BERT on a dataset with 30 target variables. 
+
+You will need Google Cloud #TPU and an instance for the code. 
+
+Its very important that they are in the same zone. I am using #pytorch !
+
+Dataset used: https://www.kaggle.com/c/google-quest-challenge
+
+Inference Kernel: https://www.kaggle.com/abhishek/bert-inference-of-tpu-model/
+
+Follow me on:
+
+Twitter: twitter.com/abhi1thakur
+
+LinkedIn: https://www.linkedin.com/in/abhi1thakur/
+
+
+### 2) Training BERT Language Model From Scratch On TPUs
+
+Feb 15, 2020
+
+https://www.youtube.com/watch?v=s-3zts7FTDA&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH&index=2
+
+
+In this video I show how you can train your own language model e.g. BERT or any other configuration from scratch on Google's TPUs. 
+
+Kaggle recently incorporated v3-8 TPUs in their Kernels/Notebooks and I will be using those. 
+
+The Kernel is available here: https://www.kaggle.com/abhishek/training-language-models-on-tpus-from-scratch
+
+
+### 3) Training Sentiment Model Using BERT and Serving it with Flask API
+
+Premiered Mar 7, 2020
 
 
 
+https://www.youtube.com/watch?v=hinZO--TEk4&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH&index=3
 
+
+In this video, I will show you how you can train your own #sentiment model using #BERT as base model and then serve the model using #flask rest api.
+
+The video focuses on creation of data loaders, creating a bert model using transformers python library, training the model and then doing inference using flask.
+
+The model described here can achieve an accuracy of 93% on IMDB 50K Movie Reviews data set.
+
+The training dataset can be found here: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Bert base uncased files used in this video can be downloaded from here: https://www.kaggle.com/abhishek/bert-base-uncased
+
+Github repo with all the code will be shared after the premier.!
+
+Like, Subscribe & Share ;)
+
+#Sentiment #BERT #DeepLearning
 
 
 

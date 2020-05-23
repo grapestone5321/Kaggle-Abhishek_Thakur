@@ -263,7 +263,59 @@ In this video, you can find answers to questions like:
 If you want to ask questions around this topic of #DataScience #MachineLearning, you can use this link: https://bit.ly/2WgSN33
 
 
+### 3.5 Talks
 
+### 1) Talks # 1:Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time
+
+Streamed live on Apr 25, 2020
+
+https://www.youtube.com/watch?v=PX1RoRD3o7o&list=PL98nY_tJQXZl79DdyMQDvGDgv6A3zsMIf
+
+
+### 2)
+
+### 3)
+
+### 3.6 Bengali.AI: Handwritten Grapheme Classification Using PyTorch
+
+### 1) Bengali.AI: Handwritten Grapheme Classification Using PyTorch (Part-1)
+
+
+Premiered Feb 22, 2020
+
+https://www.youtube.com/watch?v=8J5Q4mEzRtY&list=PL98nY_tJQXZntH5WUtKB0bghZeKVIJHJc
+
+
+In this video, I will show you how to approach an on-going #kaggle competition, specifically bengali.ai: grapheme classification.
+
+This is a multi-label #classification challenge with over 200K images. 
+
+I will be using #PyTorch to solve this problem. By the end of this tutorial you will be able to train any pre-trained model you want to train on this dataset!
+
+Competition page: https://www.kaggle.com/c/bengaliai-cv19
+
+The video is in two parts. In this part, we look at the data, start building the framework, create data set class and look at some images.
+
+
+### 2) Bengali.AI: Handwritten Grapheme Classification Using PyTorch (Part-2)
+
+Premiered Feb 23, 2020
+
+https://www.youtube.com/watch?v=uZalt-weQMM&list=PL98nY_tJQXZntH5WUtKB0bghZeKVIJHJc&index=2
+
+In this video, I will show you how to approach an on-going kaggle competition, specifically bengali.ai: grapheme classification.
+
+This is a multi-label classification challenge with over 200K images. 
+
+I will be using PyTorch to solve this problem. 
+
+By the end of this tutorial you will be able to train any pre-trained model you want to train on this dataset!
+
+Competition page: https://www.kaggle.com/c/bengaliai-cv19
+
+The video is in two parts. 
+
+In this part, we will build the framework for training any pretrained model we want to train, add augmentations, write the training script and the models and build the final inference.
 
 
 

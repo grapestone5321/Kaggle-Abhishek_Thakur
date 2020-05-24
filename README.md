@@ -333,6 +333,18 @@ The video is in two parts.
 In this part, we will build the framework for training any pretrained model we want to train, add augmentations, write the training script and the models and build the final inference.
 
 
+### 3.7 Multi-Lingual Toxic Comment Classification using BERT and TPUs with PyTorch
+
+Streamed live on Mar 25, 2020
+
+https://www.youtube.com/watch?v=vvr_f-X_LaI
+
+In this video, I will show you how to tackle the kaggle competition: Jigsaw Multilingual Toxic Comment Classification.
+
+I will be using PyTorch for this video and will build two different models: one with GPU and one with TPU!
+
+
+
 
 
 

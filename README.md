@@ -108,7 +108,23 @@ You can use it to send you information and loss of model training, success/failu
 
 Sandesh library is available on pip: pip install sandesh and github repo is here: https://github.com/abhishekkrthakur/sandesh
 
-### 2)
+### 2) Tips N Tricks #2: Setting up development environment for machine learning
+
+Jan 9, 2020
+
+https://www.youtube.com/watch?v=N9lo_UxSkWA&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=2
+
+In  this short tips and tricks I talk about setting up a beautiful looking terminal and machine learning environment.
+
+You can find the mlframework repository here: https://github.com/abhishekkrthakur/mlframework
+
+If there are some libraries that are missing from environment.yml, please feel free to send a comment or initiate a pull request
+
+Current (extended) environment can be found here: https://github.com/abhishekkrthakur/mlframework . 
+
+It will be updated very frequently.
+
+
 
 ### 3)
 

@@ -138,7 +138,17 @@ There are many new competitions on kaggle now-a-days that require you to submit 
 
 It is, therefore, a good idea to keep the code clean and readable (also applies to real world)
 
-### 4)
+### 4) Tips N Tricks #4: Using joblib to speed up almost any function (example 1)
+
+Mar 11, 2020
+
+https://www.youtube.com/watch?v=Ny3O4VpACkc&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=4
+
+In this video, I show you how you can use joblib's multiprocessing to speed up almost any function. 
+
+I present here only one example and will implement more examples in future if there is a demand from the audience.
+
+
 
 ### 5)
 

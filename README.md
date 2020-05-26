@@ -126,7 +126,17 @@ It will be updated very frequently.
 
 
 
-### 3)
+### 3) Tips N Tricks #3: Creating a clean inference kernel/notebook on Kaggle
+
+Feb 2, 2020
+
+https://www.youtube.com/watch?v=C7Tsfrq_g18&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=3
+
+In this video, I show how to create a clean inference kernel/notebook on Kaggle. 
+
+There are many new competitions on kaggle now-a-days that require you to submit an inference kernel and it becomes very messy as competitions progress and team grows. 
+
+It is, therefore, a good idea to keep the code clean and readable (also applies to real world)
 
 ### 4)
 

@@ -151,7 +151,26 @@ I present here only one example and will implement more examples in future if th
 
 
 
-### 5)
+### 5) Tips N Tricks #5: 3 Simple and Easy Ways to Cache Functions in Python
+
+Premiered Mar 20, 2020
+
+https://www.youtube.com/watch?v=H_FDL0oRAWE&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=5
+
+In this video, I show three different and simple ways in which you can cache a function in python. 
+
+Caching is one of the very important things when you are working in data science and machine learning. 
+
+When there are a lot of requests to a function, you don't want to run and process all the data for each an every request. 
+
+Instead, sometimes you just want to cache :)
+
+If you like this video, don't forget to click on the like button and subscribe to my channel. :)
+
+BERT Sentiment model link: https://github.com/abhishekkrthakur/bert-sentiment/
+
+Kernel Link:https://www.kaggle.com/abhishek/3-different-ways-to-cache-a-function-in-python
+
 
 ### 6)
 

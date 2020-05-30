@@ -172,7 +172,40 @@ BERT Sentiment model link: https://github.com/abhishekkrthakur/bert-sentiment/
 Kernel Link:https://www.kaggle.com/abhishek/3-different-ways-to-cache-a-function-in-python
 
 
-### 6)
+### 6) Tips N Tricks #6: How to train multiple deep neural networks on TPUs simultaneously
+
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=2oWf4v6QEV8&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=6
+
+In this video, I will show you how you can train multiple neural networks on TPUs simultaneously. 
+
+You can use this trick to train multiple folds for a dataset really quick and avoid all the optimization of hyperparameters that are usually associated with TPUs. 
+
+I am not talking about how TPUs work.
+
+Please note: you need to use "xm.optimizer_step(optimizer, barrier=True)" in the train_fn. This is not mentioned in the video.
+
+You can see the full code here: https://www.kaggle.com/abhishek/super-duper-fast-pytorch-tpu-kernel
+
+If you want to present something on my live show, fill up the form here: http://bit.ly/AbhishekTalks
+
+#TPU #Tricks #DataScience
+
+### 7) Tips & Tricks # 7: Fast, convenient & awesome code formatting using Black
+
+
+May 29, 2020
+
+https://www.youtube.com/watch?v=9_EB-mIi3yM&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=7
+
+In this #Tips & #Tricks video I will show you how to format your code properly using Black. 
+
+Black is a code-formatting tool which I find to be pretty awesome. You can read more about #Black here: https://black.readthedocs.io/en/stable/
+
+
+
 
 ### 3.2 Applied Machine Learning Framework
 

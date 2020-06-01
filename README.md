@@ -232,6 +232,31 @@ Please let me know in comments what you want to learn and I will make it happen 
 Github for this episode: https://github.com/abhishekkrthakur/mlframework
 
 
+### 2) Episode 1.2: Building an inference for the machine learning framework
+
+Premiered Dec 26, 2019
+
+https://www.youtube.com/watch?v=zcqgj-Udcqs&list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw&index=2
+
+
+This is the first video (part2) of my applied machine learning series.
+
+In this video, I talk about the motivation for this channel and then show how you can create a re-usable machine learning framework for simple tabular datasets.
+
+Due to the size of the video, I split them into 2 sub-episodes:
+
+Episode 1.1 consists of motivation, setting up a web based IDE, creating an empty framework and creating model training
+
+Episode 1.2 shows how the trained model can be used for inference.
+
+The whole idea behind this episode is to create code which is re-usable, looks good and can be applied to many different kinds of problem without changing a lot of code.
+
+Please let me know in comments what you want to learn and I will make it happen :)
+
+Github for this episode: https://github.com/abhishekkrthakur/mlframework
+
+
+
 ### 3) Episode 2: A Cross Validation Framework
 
 Premiered Jan 5, 2020

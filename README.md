@@ -274,6 +274,21 @@ In the end we are left with a cross validation framework that can be applied to 
 GitHub link : https://github.com/abhishekkrthakur/mlframework
 
 
+### 4) Episode 3: Handling Categorical Features in Machine Learning Problems
+
+Jan 19, 2020
+
+https://www.youtube.com/watch?v=vkXEHpuu03A&list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw&index=4
+
+
+In this episode, I talk about different types of #categorical #variables and handling categorical variable in a given #machinelearning problem. 
+
+Categorical features is not a vast topic but there are many different approaches and I will be talking about more approaches in upcoming videos.
+
+The framework that we are working on building can be found here:https://github.com/abhishekkrthakur/mlframework
+
+
+
 ### 6) Episode 5: Entity Embeddings for Categorical Variables
 
 Mar 17, 2020

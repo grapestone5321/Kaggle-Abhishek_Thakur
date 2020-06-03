@@ -287,6 +287,20 @@ Categorical features is not a vast topic but there are many different approaches
 
 The framework that we are working on building can be found here:https://github.com/abhishekkrthakur/mlframework
 
+### 5) Episode 4: Simple and Basic Binary Classification Metrics
+
+Feb 26, 2020
+
+
+https://www.youtube.com/watch?v=uuQ4XLeyWG0&list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw&index=5
+
+
+In this episode of applied machine learning series, we learn about the most basic, but important, #binary #classification metrics and enhance our mlframework with them. 
+
+We create a classification metrics class which can be expanded to any metric in future.
+
+MLFramework can be found here: https://github.com/abhishekkrthakur/mlframework
+
 
 
 ### 6) Episode 5: Entity Embeddings for Categorical Variables

@@ -317,6 +317,32 @@ The task in this video is to convert the keras model to pytorch.
 
 You can find the full kernel here: https://www.kaggle.com/abhishek/same-old-entity-embeddings
 
+### Episode 6: Simple and Basic Evaluation Metrics For Regression
+
+May 3, 2020
+
+https://www.youtube.com/watch?v=k6q6Sn60ngc&list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw&index=7
+
+In this video, I talk about some simple #evaluation #metrics used in #regression problems. Specifically, I will talk about:
+- Mean absolute error
+- Mean squared error
+- Root mean squared error
+- Root mean squared logarithmic error and
+- R2 score
+
+I implement these in the mlframework that can be found here: https://github.com/abhishekkrthakur/m...
+
+If you want to be a speaker in my Talks Series, then fill out this form: https://bit.ly/AbhishekTalks
+
+If you want to be first one to know when the book is available for purchase, fill out this short form: https://bit.ly/approachingalmost
+
+Follow me on:
+Twitter:  https://twitter.com/abhi1thakur
+LinkedIn: https://www.linkedin.com/in/abhi1thakur/
+Kaggle:  https://kaggle.com/abhishek
+
+
+
 
 ### 3.3 BERT
 

@@ -311,13 +311,15 @@ https://arxiv.org/pdf/1604.06737.pdf
 
 In this episode, I discuss what entity #embeddings for #categorical #variables are and how to implement them using tensorflow/keras. 
 
-I have used the data from a Kaggle competition: https://www.kaggle.com/c/cat-in-the-dat-ii for this video.
+### I have used the data from a Kaggle competition: 
+https://www.kaggle.com/c/cat-in-the-dat-ii for this video.
 
 The task in this video is to convert the keras model to pytorch.
 
-You can find the full kernel here: https://www.kaggle.com/abhishek/same-old-entity-embeddings
+### You can find the full kernel here: 
+https://www.kaggle.com/abhishek/same-old-entity-embeddings
 
-### Episode 6: Simple and Basic Evaluation Metrics For Regression
+### 7) Episode 6: Simple and Basic Evaluation Metrics For Regression
 
 May 3, 2020
 
@@ -330,13 +332,16 @@ In this video, I talk about some simple #evaluation #metrics used in #regression
 - Root mean squared logarithmic error and
 - R2 score
 
-I implement these in the mlframework that can be found here: https://github.com/abhishekkrthakur/m...
+### I implement these in the mlframework that can be found here: 
+https://github.com/abhishekkrthakur/m...
 
-If you want to be a speaker in my Talks Series, then fill out this form: https://bit.ly/AbhishekTalks
+### If you want to be a speaker in my Talks Series, then fill out this form: 
+https://bit.ly/AbhishekTalks
 
-If you want to be first one to know when the book is available for purchase, fill out this short form: https://bit.ly/approachingalmost
+### If you want to be first one to know when the book is available for purchase, fill out this short form: 
+https://bit.ly/approachingalmost
 
-Follow me on:
+### Follow me on:
 Twitter:  https://twitter.com/abhi1thakur
 LinkedIn: https://www.linkedin.com/in/abhi1thakur/
 Kaggle:  https://kaggle.com/abhishek

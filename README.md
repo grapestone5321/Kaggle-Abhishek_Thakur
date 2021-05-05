@@ -25,212 +25,7 @@ https://www.youtube.com/watch?v=uKBWp1f5St4&t=327s
 
 -------
 
-
-## 1. Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle
-
-
-Aug 7, 2019
-
-https://www.youtube.com/watch?v=uWVR_axaVwk&list=RDCMUCSNeZleDn9c74yQc-EKnVTA&index=6
-
-Abhishek Thakur is the chief data scientist at https://boost.ai building state-of-the-art chatbots primarily for banking and insurance industries. 
-
-His passion lies in solving difficult world problems through data science. 
-
-He is the co-organizer of the Berlin Machine Learning Meetup and not long ago was ranked no. 3 worldwide on the Data Science Platform Kaggle. 
-
-He is a Competitions and Discussions Grandmaster. 
-
-Abhishek did his Bachelors in Electronics Engineering from India and moved to Germany for pursuing MSc from University of Bonn, Germany with a focus on image processing and computer vision. 
-
-He dropped out of PhD in 2015 and since then has been working in industries.
-
-Kaggle Days Dubai was held May 30 - April 1 2019 as a part of AI Everything. Participants came to meet, learn and code with Kaggle Grandmasters, and compete in a full-day offline competition. 
-
-This edition is presented by LogicAI with sponsorship from Kaggle and Google Cloud.
-
-Kaggle Days are a global series of offline events for seasoned data scientists and Kagglers created by LogicAI and Kaggle.
-
-Follow Kaggle Days online:
-
-Visit the WEBSITE: https://kaggledays.com/
-
-Like Kaggle Days on FACEBOOK: https://www.facebook.com/KaggleDays/
-
-Follow Kaggle Days on TWITTER: https://twitter.com/Kaggle_Days
-
-Connect with Kaggle Days on LINKEDIN: https://www.linkedin.com/company/kaggle-days/
-
-About LogicAI:
-LogicAI as a creator of Kaggle Days is a sole partner of Kaggle to build global offline community. 
-
-LogicAI is a boutique Data Science consultancy company owned by Kaggle fans and Grandmasters. As a global company, they do custom end-to-end AI and Data Science development projects as well as trainings for C-level management and tech teams. 
-
-Want help with your AI projects or want to work with LogicAI to create AI strategies? Simply apply at https://logicai.io 
-
-Follow LogicAI online:
-
-Visit the WEBSITE: https://logicai.io/
-
-Like LogicAI on FACEBOOK: https://www.facebook.com/KaggleDays/
-
-Check out our BLOG: https://logicai.io/blog/
-
-Connect with us on LINKEDIN: https://www.linkedin.com/company/kaggle-days/
-
-
-## 2. Interview with Abhishek Thakur | World's First Triple Grandmaster | Kaggle
-
-
-Jul 11, 2019
-
-https://www.youtube.com/watch?v=8lniZVqRLA0&list=RDCMUCSNeZleDn9c74yQc-EKnVTA&index=1
-
-Help us congratulate Kaggle's very first Triple Grandmaster, Abhishek Thakur. 
-
-In this interview, Kaggle Grandmaster and data scientist Walter Reade sits down with Abhishek to ask our burning questions. 
-
-Leave a comment below to congratulate him! 
-
-Who is Abhishek Thakur? 0:31
-
-What kind of processor did Abhishek Thakur have when he started using Kaggle? 3:25
-
-How did Abhishek do in his first Kaggle competition? 3:38
-
-What is Abhishek's educational background? 4:24
-
-How long did it take Abhishek to switch over to Python? 5:17
-
-What was Abhishek's path to becoming a Triple Grandmaster? 6:11
-
-What was Abhishek's motivation to contribute to Kaggle Forums? 8:24
-
-Abhishek's advice for someone new to Kaggle 11:11
-
-Abhishek's motivation on Kaggle 13:00
-
-
-## 3. Abhishek Thakur
-
-https://www.youtube.com/user/abhisheksvnit
-
-
-### 3.1 Tips & Tricks
-
-### 1) Tips N Tricks #1: Send messages to Slack using Python
-
-Dec 29, 2019
-
-https://www.youtube.com/watch?v=jDqjSd42024&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn
-
-In the Tips N Tricks series, I will upload short videos with small tips that can help you with daily work.
-
-In this video, I show how to build a small app to send #slack notifications from #python. 
-
-You can use it to send you information and loss of model training, success/failure of models or for any kind of logs that you want.
-
-Sandesh library is available on pip: pip install sandesh and github repo is here: https://github.com/abhishekkrthakur/sandesh
-
-### 2) Tips N Tricks #2: Setting up development environment for machine learning
-
-Jan 9, 2020
-
-https://www.youtube.com/watch?v=N9lo_UxSkWA&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=2
-
-In  this short tips and tricks I talk about setting up a beautiful looking terminal and machine learning environment.
-
-You can find the mlframework repository here: https://github.com/abhishekkrthakur/mlframework
-
-If there are some libraries that are missing from environment.yml, please feel free to send a comment or initiate a pull request
-
-Current (extended) environment can be found here: https://github.com/abhishekkrthakur/mlframework . 
-
-It will be updated very frequently.
-
-
-
-### 3) Tips N Tricks #3: Creating a clean inference kernel/notebook on Kaggle
-
-Feb 2, 2020
-
-https://www.youtube.com/watch?v=C7Tsfrq_g18&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=3
-
-In this video, I show how to create a clean inference kernel/notebook on Kaggle. 
-
-There are many new competitions on kaggle now-a-days that require you to submit an inference kernel and it becomes very messy as competitions progress and team grows. 
-
-It is, therefore, a good idea to keep the code clean and readable (also applies to real world)
-
-### 4) Tips N Tricks #4: Using joblib to speed up almost any function (example 1)
-
-Mar 11, 2020
-
-https://www.youtube.com/watch?v=Ny3O4VpACkc&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=4
-
-In this video, I show you how you can use joblib's multiprocessing to speed up almost any function. 
-
-I present here only one example and will implement more examples in future if there is a demand from the audience.
-
-
-
-### 5) Tips N Tricks #5: 3 Simple and Easy Ways to Cache Functions in Python
-
-Premiered Mar 20, 2020
-
-https://www.youtube.com/watch?v=H_FDL0oRAWE&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=5
-
-In this video, I show three different and simple ways in which you can cache a function in python. 
-
-Caching is one of the very important things when you are working in data science and machine learning. 
-
-When there are a lot of requests to a function, you don't want to run and process all the data for each an every request. 
-
-Instead, sometimes you just want to cache :)
-
-If you like this video, don't forget to click on the like button and subscribe to my channel. :)
-
-BERT Sentiment model link: https://github.com/abhishekkrthakur/bert-sentiment/
-
-Kernel Link:https://www.kaggle.com/abhishek/3-different-ways-to-cache-a-function-in-python
-
-
-### 6) Tips N Tricks #6: How to train multiple deep neural networks on TPUs simultaneously
-
-
-Apr 18, 2020
-
-https://www.youtube.com/watch?v=2oWf4v6QEV8&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=6
-
-In this video, I will show you how you can train multiple neural networks on TPUs simultaneously. 
-
-You can use this trick to train multiple folds for a dataset really quick and avoid all the optimization of hyperparameters that are usually associated with TPUs. 
-
-I am not talking about how TPUs work.
-
-Please note: you need to use "xm.optimizer_step(optimizer, barrier=True)" in the train_fn. This is not mentioned in the video.
-
-You can see the full code here: https://www.kaggle.com/abhishek/super-duper-fast-pytorch-tpu-kernel
-
-If you want to present something on my live show, fill up the form here: http://bit.ly/AbhishekTalks
-
-#TPU #Tricks #DataScience
-
-### 7) Tips & Tricks # 7: Fast, convenient & awesome code formatting using Black
-
-
-May 29, 2020
-
-https://www.youtube.com/watch?v=9_EB-mIi3yM&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=7
-
-In this #Tips & #Tricks video I will show you how to format your code properly using Black. 
-
-Black is a code-formatting tool which I find to be pretty awesome. You can read more about #Black here: https://black.readthedocs.io/en/stable/
-
-
-
-
-### 3.2 Applied Machine Learning Framework
+# Applied Machine Learning Framework
 
 ### 1) Episode 1.1: Intro and building a machine learning framework
 
@@ -368,6 +163,220 @@ https://bit.ly/approachingalmost
 Twitter:  https://twitter.com/abhi1thakur
 LinkedIn: https://www.linkedin.com/in/abhi1thakur/
 Kaggle:  https://kaggle.com/abhishek
+
+
+
+
+
+
+-------
+
+
+
+## 1. Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle
+
+
+Aug 7, 2019
+
+https://www.youtube.com/watch?v=uWVR_axaVwk&list=RDCMUCSNeZleDn9c74yQc-EKnVTA&index=6
+
+Abhishek Thakur is the chief data scientist at https://boost.ai building state-of-the-art chatbots primarily for banking and insurance industries. 
+
+His passion lies in solving difficult world problems through data science. 
+
+He is the co-organizer of the Berlin Machine Learning Meetup and not long ago was ranked no. 3 worldwide on the Data Science Platform Kaggle. 
+
+He is a Competitions and Discussions Grandmaster. 
+
+Abhishek did his Bachelors in Electronics Engineering from India and moved to Germany for pursuing MSc from University of Bonn, Germany with a focus on image processing and computer vision. 
+
+He dropped out of PhD in 2015 and since then has been working in industries.
+
+Kaggle Days Dubai was held May 30 - April 1 2019 as a part of AI Everything. Participants came to meet, learn and code with Kaggle Grandmasters, and compete in a full-day offline competition. 
+
+This edition is presented by LogicAI with sponsorship from Kaggle and Google Cloud.
+
+Kaggle Days are a global series of offline events for seasoned data scientists and Kagglers created by LogicAI and Kaggle.
+
+Follow Kaggle Days online:
+
+Visit the WEBSITE: https://kaggledays.com/
+
+Like Kaggle Days on FACEBOOK: https://www.facebook.com/KaggleDays/
+
+Follow Kaggle Days on TWITTER: https://twitter.com/Kaggle_Days
+
+Connect with Kaggle Days on LINKEDIN: https://www.linkedin.com/company/kaggle-days/
+
+About LogicAI:
+LogicAI as a creator of Kaggle Days is a sole partner of Kaggle to build global offline community. 
+
+LogicAI is a boutique Data Science consultancy company owned by Kaggle fans and Grandmasters. As a global company, they do custom end-to-end AI and Data Science development projects as well as trainings for C-level management and tech teams. 
+
+Want help with your AI projects or want to work with LogicAI to create AI strategies? Simply apply at https://logicai.io 
+
+Follow LogicAI online:
+
+Visit the WEBSITE: https://logicai.io/
+
+Like LogicAI on FACEBOOK: https://www.facebook.com/KaggleDays/
+
+Check out our BLOG: https://logicai.io/blog/
+
+Connect with us on LINKEDIN: https://www.linkedin.com/company/kaggle-days/
+
+
+## 2. Interview with Abhishek Thakur | World's First Triple Grandmaster | Kaggle
+
+
+Jul 11, 2019
+
+https://www.youtube.com/watch?v=8lniZVqRLA0&list=RDCMUCSNeZleDn9c74yQc-EKnVTA&index=1
+
+Help us congratulate Kaggle's very first Triple Grandmaster, Abhishek Thakur. 
+
+In this interview, Kaggle Grandmaster and data scientist Walter Reade sits down with Abhishek to ask our burning questions. 
+
+Leave a comment below to congratulate him! 
+
+Who is Abhishek Thakur? 0:31
+
+What kind of processor did Abhishek Thakur have when he started using Kaggle? 3:25
+
+How did Abhishek do in his first Kaggle competition? 3:38
+
+What is Abhishek's educational background? 4:24
+
+How long did it take Abhishek to switch over to Python? 5:17
+
+What was Abhishek's path to becoming a Triple Grandmaster? 6:11
+
+What was Abhishek's motivation to contribute to Kaggle Forums? 8:24
+
+Abhishek's advice for someone new to Kaggle 11:11
+
+Abhishek's motivation on Kaggle 13:00
+
+-------
+
+## 3. Abhishek Thakur
+
+https://www.youtube.com/user/abhisheksvnit
+
+
+### 3.1 Tips & Tricks
+
+### 1) Tips N Tricks #1: Send messages to Slack using Python
+
+Dec 29, 2019
+
+https://www.youtube.com/watch?v=jDqjSd42024&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn
+
+In the Tips N Tricks series, I will upload short videos with small tips that can help you with daily work.
+
+In this video, I show how to build a small app to send #slack notifications from #python. 
+
+You can use it to send you information and loss of model training, success/failure of models or for any kind of logs that you want.
+
+Sandesh library is available on pip: pip install sandesh and github repo is here: https://github.com/abhishekkrthakur/sandesh
+
+### 2) Tips N Tricks #2: Setting up development environment for machine learning
+
+Jan 9, 2020
+
+https://www.youtube.com/watch?v=N9lo_UxSkWA&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=2
+
+In  this short tips and tricks I talk about setting up a beautiful looking terminal and machine learning environment.
+
+You can find the mlframework repository here: https://github.com/abhishekkrthakur/mlframework
+
+If there are some libraries that are missing from environment.yml, please feel free to send a comment or initiate a pull request
+
+Current (extended) environment can be found here: https://github.com/abhishekkrthakur/mlframework . 
+
+It will be updated very frequently.
+
+
+
+### 3) Tips N Tricks #3: Creating a clean inference kernel/notebook on Kaggle
+
+Feb 2, 2020
+
+https://www.youtube.com/watch?v=C7Tsfrq_g18&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=3
+
+In this video, I show how to create a clean inference kernel/notebook on Kaggle. 
+
+There are many new competitions on kaggle now-a-days that require you to submit an inference kernel and it becomes very messy as competitions progress and team grows. 
+
+It is, therefore, a good idea to keep the code clean and readable (also applies to real world)
+
+### 4) Tips N Tricks #4: Using joblib to speed up almost any function (example 1)
+
+Mar 11, 2020
+
+https://www.youtube.com/watch?v=Ny3O4VpACkc&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=4
+
+In this video, I show you how you can use joblib's multiprocessing to speed up almost any function. 
+
+I present here only one example and will implement more examples in future if there is a demand from the audience.
+
+
+
+### 5) Tips N Tricks #5: 3 Simple and Easy Ways to Cache Functions in Python
+
+Premiered Mar 20, 2020
+
+https://www.youtube.com/watch?v=H_FDL0oRAWE&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=5
+
+In this video, I show three different and simple ways in which you can cache a function in python. 
+
+Caching is one of the very important things when you are working in data science and machine learning. 
+
+When there are a lot of requests to a function, you don't want to run and process all the data for each an every request. 
+
+Instead, sometimes you just want to cache :)
+
+If you like this video, don't forget to click on the like button and subscribe to my channel. :)
+
+BERT Sentiment model link: https://github.com/abhishekkrthakur/bert-sentiment/
+
+Kernel Link:https://www.kaggle.com/abhishek/3-different-ways-to-cache-a-function-in-python
+
+
+### 6) Tips N Tricks #6: How to train multiple deep neural networks on TPUs simultaneously
+
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=2oWf4v6QEV8&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=6
+
+In this video, I will show you how you can train multiple neural networks on TPUs simultaneously. 
+
+You can use this trick to train multiple folds for a dataset really quick and avoid all the optimization of hyperparameters that are usually associated with TPUs. 
+
+I am not talking about how TPUs work.
+
+Please note: you need to use "xm.optimizer_step(optimizer, barrier=True)" in the train_fn. This is not mentioned in the video.
+
+You can see the full code here: https://www.kaggle.com/abhishek/super-duper-fast-pytorch-tpu-kernel
+
+If you want to present something on my live show, fill up the form here: http://bit.ly/AbhishekTalks
+
+#TPU #Tricks #DataScience
+
+### 7) Tips & Tricks # 7: Fast, convenient & awesome code formatting using Black
+
+
+May 29, 2020
+
+https://www.youtube.com/watch?v=9_EB-mIi3yM&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=7
+
+In this #Tips & #Tricks video I will show you how to format your code properly using Black. 
+
+Black is a code-formatting tool which I find to be pretty awesome. You can read more about #Black here: https://black.readthedocs.io/en/stable/
+
+
+-------
 
 
 

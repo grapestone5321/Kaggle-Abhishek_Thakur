@@ -133,6 +133,8 @@ MLFramework can be found here: https://github.com/abhishekkrthakur/mlframework
 
 Mar 17, 2020
 
+https://www.youtube.com/watch?v=EATAM3BOD_E&list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw&index=6
+
 https://arxiv.org/pdf/1604.06737.pdf
 
 In this episode, I discuss what entity #embeddings for #categorical #variables are and how to implement them using tensorflow/keras. 

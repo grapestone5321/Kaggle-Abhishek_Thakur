@@ -135,6 +135,7 @@ Mar 17, 2020
 
 https://www.youtube.com/watch?v=EATAM3BOD_E&list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw&index=6
 
+### Entity Embeddings of Categorical Variables:
 https://arxiv.org/pdf/1604.06737.pdf
 
 In this episode, I discuss what entity #embeddings for #categorical #variables are and how to implement them using tensorflow/keras. 

@@ -27,6 +27,10 @@ This is my first unboxing video. I hope you like it :)
 https://www.youtube.com/watch?v=uKBWp1f5St4&t=327s
 
 
+## I got a chance to try NVIDIA A100 GPU via qblocks.cloud
+https://www.youtube.com/watch?v=Ckfa_j4_oBw&t=79s
+
+
 -------
 
 # Applied Machine Learning Framework

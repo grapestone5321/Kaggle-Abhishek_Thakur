@@ -8,6 +8,8 @@ https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A
 
 -------
 
+# NVIDIA
+
 ## Unboxing and Installing NVIDIA RTX 3090: The BFGPU
 https://www.youtube.com/watch?v=3dhS2mwXS4M
 
@@ -16,6 +18,9 @@ This Christmas #NVIDIA​ gifted me an #RTX​ #3090​ GPU and I decided to put
 But before that, I needed to unbox and install it. So, I decided to make a video around it. 
 
 This is my first unboxing video. I hope you like it :)
+
+## NVIDIA Broadcast App: AI-based application for streaming / broadcasting / meeting (all features)
+https://www.youtube.com/watch?v=uKBWp1f5St4&t=327s
 
 
 -------

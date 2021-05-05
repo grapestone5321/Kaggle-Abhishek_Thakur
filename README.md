@@ -1,6 +1,24 @@
 # Kaggle-Abhishek_Thakur
 
 
+-------
+
+##youtube
+https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A
+
+-------
+
+## Unboxing and Installing NVIDIA RTX 3090: The BFGPU
+https://www.youtube.com/watch?v=3dhS2mwXS4M
+
+This Christmas #NVIDIA​ gifted me an #RTX​ #3090​ GPU and I decided to put it to good use. 
+
+But before that, I needed to unbox and install it. So, I decided to make a video around it. 
+
+This is my first unboxing video. I hope you like it :)
+
+
+-------
 
 
 ## 1. Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle

@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=uKBWp1f5St4&t=327s
 
 # Applied Machine Learning Framework
 
-### 1) Episode 1.1: Intro and building a machine learning framework
+## 1) Episode 1.1: Intro and building a machine learning framework
 
 Premiered Dec 26, 2019
 
@@ -54,7 +54,7 @@ Please let me know in comments what you want to learn and I will make it happen 
 Github for this episode: https://github.com/abhishekkrthakur/mlframework
 
 
-### 2) Episode 1.2: Building an inference for the machine learning framework
+## 2) Episode 1.2: Building an inference for the machine learning framework
 
 Premiered Dec 26, 2019
 
@@ -79,7 +79,7 @@ Github for this episode: https://github.com/abhishekkrthakur/mlframework
 
 
 
-### 3) Episode 2: A Cross Validation Framework
+## 3) Episode 2: A Cross Validation Framework
 
 Premiered Jan 5, 2020
 
@@ -96,7 +96,7 @@ In the end we are left with a cross validation framework that can be applied to 
 GitHub link : https://github.com/abhishekkrthakur/mlframework
 
 
-### 4) Episode 3: Handling Categorical Features in Machine Learning Problems
+## 4) Episode 3: Handling Categorical Features in Machine Learning Problems
 
 Jan 19, 2020
 
@@ -109,7 +109,7 @@ Categorical features is not a vast topic but there are many different approaches
 
 The framework that we are working on building can be found here:https://github.com/abhishekkrthakur/mlframework
 
-### 5) Episode 4: Simple and Basic Binary Classification Metrics
+## 5) Episode 4: Simple and Basic Binary Classification Metrics
 
 Feb 26, 2020
 
@@ -125,7 +125,7 @@ MLFramework can be found here: https://github.com/abhishekkrthakur/mlframework
 
 
 
-### 6) Episode 5: Entity Embeddings for Categorical Variables
+## 6) Episode 5: Entity Embeddings for Categorical Variables
 
 Mar 17, 2020
 
@@ -141,7 +141,7 @@ The task in this video is to convert the keras model to pytorch.
 ### You can find the full kernel here: 
 https://www.kaggle.com/abhishek/same-old-entity-embeddings
 
-### 7) Episode 6: Simple and Basic Evaluation Metrics For Regression
+## 7) Episode 6: Simple and Basic Evaluation Metrics For Regression
 
 May 3, 2020
 
@@ -175,18 +175,9 @@ Kaggle:  https://kaggle.com/abhishek
 
 -------
 
-
-
-
-
-
-
-
-
-
 # Tips & Tricks
 
-### 1) Tips N Tricks #1: Send messages to Slack using Python
+## 1) Tips N Tricks #1: Send messages to Slack using Python
 
 Dec 29, 2019
 
@@ -200,7 +191,7 @@ You can use it to send you information and loss of model training, success/failu
 
 Sandesh library is available on pip: pip install sandesh and github repo is here: https://github.com/abhishekkrthakur/sandesh
 
-### 2) Tips N Tricks #2: Setting up development environment for machine learning
+## 2) Tips N Tricks #2: Setting up development environment for machine learning
 
 Jan 9, 2020
 
@@ -218,7 +209,7 @@ It will be updated very frequently.
 
 
 
-### 3) Tips N Tricks #3: Creating a clean inference kernel/notebook on Kaggle
+## 3) Tips N Tricks #3: Creating a clean inference kernel/notebook on Kaggle
 
 Feb 2, 2020
 
@@ -230,7 +221,7 @@ There are many new competitions on kaggle now-a-days that require you to submit 
 
 It is, therefore, a good idea to keep the code clean and readable (also applies to real world)
 
-### 4) Tips N Tricks #4: Using joblib to speed up almost any function (example 1)
+## 4) Tips N Tricks #4: Using joblib to speed up almost any function (example 1)
 
 Mar 11, 2020
 
@@ -242,7 +233,7 @@ I present here only one example and will implement more examples in future if th
 
 
 
-### 5) Tips N Tricks #5: 3 Simple and Easy Ways to Cache Functions in Python
+## 5) Tips N Tricks #5: 3 Simple and Easy Ways to Cache Functions in Python
 
 Premiered Mar 20, 2020
 
@@ -263,7 +254,7 @@ BERT Sentiment model link: https://github.com/abhishekkrthakur/bert-sentiment/
 Kernel Link:https://www.kaggle.com/abhishek/3-different-ways-to-cache-a-function-in-python
 
 
-### 6) Tips N Tricks #6: How to train multiple deep neural networks on TPUs simultaneously
+## 6) Tips N Tricks #6: How to train multiple deep neural networks on TPUs simultaneously
 
 
 Apr 18, 2020
@@ -284,7 +275,7 @@ If you want to present something on my live show, fill up the form here: http://
 
 #TPU #Tricks #DataScience
 
-### 7) Tips & Tricks # 7: Fast, convenient & awesome code formatting using Black
+## 7) Tips & Tricks # 7: Fast, convenient & awesome code formatting using Black
 
 
 May 29, 2020
@@ -302,7 +293,7 @@ Black is a code-formatting tool which I find to be pretty awesome. You can read 
 # BERT
 
 
-### 1) BERT on Steroids: Fine-tuning BERT for a dataset using PyTorch and Google Cloud TPUs
+## 1) BERT on Steroids: Fine-tuning BERT for a dataset using PyTorch and Google Cloud TPUs
 
 Jan 26, 2020
 
@@ -325,7 +316,7 @@ Twitter: twitter.com/abhi1thakur
 LinkedIn: https://www.linkedin.com/in/abhi1thakur/
 
 
-### 2) Training BERT Language Model From Scratch On TPUs
+## 2) Training BERT Language Model From Scratch On TPUs
 
 Feb 15, 2020
 
@@ -339,7 +330,7 @@ Kaggle recently incorporated v3-8 TPUs in their Kernels/Notebooks and I will be 
 The Kernel is available here: https://www.kaggle.com/abhishek/training-language-models-on-tpus-from-scratch
 
 
-### 3) Training Sentiment Model Using BERT and Serving it with Flask API
+## 3) Training Sentiment Model Using BERT and Serving it with Flask API
 
 Premiered Mar 7, 2020
 
@@ -368,9 +359,9 @@ Like, Subscribe & Share ;)
 -------
 
 
-### 3.4 vlogs
+# vlogs
 
-### 1) My Journey: How I Became The World's First 4x (and 3x) Grand Master On Kaggle
+## 1) My Journey: How I Became The World's First 4x (and 3x) Grand Master On Kaggle
 
 Feb 29, 2020
 
@@ -386,7 +377,7 @@ I try my best to reply/answer each comment that I receive.
 
 #Kaggle #GrandMaster #MachineLearning
 
-### 2) 10K Subscribers: Approaching (almost) Any Machine Learning Problem and Talk Show
+## 2) 10K Subscribers: Approaching (almost) Any Machine Learning Problem and Talk Show
 
 Apr 11, 2020
 
@@ -403,7 +394,7 @@ If you want to join as a guest in the talk show to discuss your cool project, fi
 
 
 
-### 3) How do I start my career in Data Science?
+## 3) How do I start my career in Data Science?
 
 May 16, 2020
 
@@ -426,23 +417,27 @@ In this video, you can find answers to questions like:
 
 If you want to ask questions around this topic of #DataScience #MachineLearning, you can use this link: https://bit.ly/2WgSN33
 
+-------
 
-### 3.5 Talks
+# Talks
 
-### 1) Talks # 1:Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time
+## 1) Talks # 1:Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time
 
 Streamed live on Apr 25, 2020
 
 https://www.youtube.com/watch?v=PX1RoRD3o7o&list=PL98nY_tJQXZl79DdyMQDvGDgv6A3zsMIf
 
 
-### 2)
+## 2)
 
-### 3)
+## 3)
 
-### 3.6 Bengali.AI: Handwritten Grapheme Classification Using PyTorch
 
-### 1) Bengali.AI: Handwritten Grapheme Classification Using PyTorch (Part-1)
+-------
+
+# Bengali.AI: Handwritten Grapheme Classification Using PyTorch
+
+## 1) Bengali.AI: Handwritten Grapheme Classification Using PyTorch (Part-1)
 
 
 Premiered Feb 22, 2020
@@ -461,7 +456,7 @@ Competition page: https://www.kaggle.com/c/bengaliai-cv19
 The video is in two parts. In this part, we look at the data, start building the framework, create data set class and look at some images.
 
 
-### 2) Bengali.AI: Handwritten Grapheme Classification Using PyTorch (Part-2)
+## 2) Bengali.AI: Handwritten Grapheme Classification Using PyTorch (Part-2)
 
 Premiered Feb 23, 2020
 
@@ -481,8 +476,9 @@ The video is in two parts.
 
 In this part, we will build the framework for training any pretrained model we want to train, add augmentations, write the training script and the models and build the final inference.
 
+-------
 
-### 3.7 Multi-Lingual Toxic Comment Classification using BERT and TPUs with PyTorch
+# Multi-Lingual Toxic Comment Classification using BERT and TPUs with PyTorch
 
 Streamed live on Mar 25, 2020
 
@@ -496,7 +492,7 @@ I will be using PyTorch for this video and will build two different models: one 
 
 -------
 
-## 1. Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle
+# 1. Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle
 
 
 Aug 7, 2019
@@ -548,8 +544,9 @@ Check out our BLOG: https://logicai.io/blog/
 
 Connect with us on LINKEDIN: https://www.linkedin.com/company/kaggle-days/
 
+-------
 
-## 2. Interview with Abhishek Thakur | World's First Triple Grandmaster | Kaggle
+# 2. Interview with Abhishek Thakur | World's First Triple Grandmaster | Kaggle
 
 
 Jul 11, 2019

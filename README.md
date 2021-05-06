@@ -1,13 +1,16 @@
 # Kaggle-Abhishek_Thakur
 
+
+
+https://github.com/lyakaap/Landmark2019-1st-and-3rd-Place-Solution/
+
+
 ------
 
-## Abhishek Thakur
+## youtube
+
 https://www.youtube.com/user/abhisheksvnit
 
--------
-
-## youtube
 https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A
 
 -------

@@ -6,9 +6,6 @@
 
 https://github.com/lyakaap/Landmark2019-1st-and-3rd-Place-Solution/
 
-
-------
-
 ## youtube
 
 https://www.youtube.com/user/abhisheksvnit
@@ -16,6 +13,23 @@ https://www.youtube.com/user/abhisheksvnit
 https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A
 
 -------
+
+## 1. Applied Machine Learning Framework
+
+## 2. Tips & Tricks
+
+## 3. PyTorch 101: An Applied Tutorial
+
+## 4. Approaching (Almost) Any NLP Problem
+
+## 5. BERT
+
+## 6. Bengali.AI:
+
+
+
+-------
+
 
 # NVIDIA
 

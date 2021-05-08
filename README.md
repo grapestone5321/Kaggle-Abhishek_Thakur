@@ -298,6 +298,27 @@ Black is a code-formatting tool which I find to be pretty awesome. You can read 
 -------
 
 
+
+# PyTorch 101: An Applied Tutorial
+updated on Apr 12, 2021
+
+## 1. Tensors in PyTorch
+
+## 2. PyTorch Autograd
+
+## 3. The dataset class in PyTorch
+
+## 4. Dataset class for simple NLP problems
+
+## 5. Dataset class for simple image / vision problems
+
+## 6. Dataloader in PyTorch
+
+## 7. Linear regression model in PyTorch
+
+
+-------
+
 # BERT
 
 

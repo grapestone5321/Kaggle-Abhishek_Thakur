@@ -682,6 +682,19 @@ You can find Tez here: https://github.com/abhishekkrthakur/tez​
 
 -------
 
+# Hyperparameter Optimization: This Tutorial Is All You Need
+
+In this video, I show you how you can use different hyperparameter optimization techniques and libraries to tune hyperparameters of almost any kind of model or just to optimize any function! 
+
+      00:00​ Introduction
+      03:00​ Grid Search
+      12:40​ Random Search
+      16:00​ Grid/Random Search with Pipelines
+      21:03​ Bayesian Optimization with Gaussian Process
+      38:30​ Hyperopt
+      48:43​ Optuna
+
+-------
 
 
 # Docker For Data Scientists

@@ -668,6 +668,21 @@ The full list discussed in this video:
 
 -------
 
+# Deep learning for (almost) any text classification problem (binary, multi-class, multi-label)
+
+In this video, I will show you how to build a model for (almost) any text classification problem, i.e., binary classification, multi-class classification or multi-label classification. 
+
+You can expand this to any language and any type of deep learning model (LSTM, GRU, Transformers, etc). 
+
+In this video, I will be using BERT model from Transformers and Tez.
+
+You can find Tez here: https://github.com/abhishekkrthakur/tez​
+
+#NLP​ #DeepLearning​ #PyTorch
+
+-------
+
+
 
 # Docker For Data Scientists
       

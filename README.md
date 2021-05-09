@@ -719,6 +719,20 @@ Please subscribe and like the video to help me keep motivated to make awesome vi
        52:50​ Training, suggestions and outro
 
 
+
+
+-------
+
+
+# Ensembling, Blending & Stacking
+
+
+n this tutorial, you will learn how to create #Ensemble​ models. We will talk about #Blending​ and #Stacking​.
+
+
+
+
+
 -------
 
 # Docker For Data Scientists

@@ -723,3 +723,31 @@ Please subscribe and like the video to help me keep motivated to make awesome vi
 
 # Docker For Data Scientists
       
+-------
+
+# Captcha recognition using PyTorch (Convolutional-RNN + CTC Loss)
+
+In this video, I will show you how you can implement a Convolutional-RNN model for captcha recognition. 
+
+We will be using CTC loss and everything will be done in PyTorch.
+
+You can find the code for this tutorial here: https://github.com/abhishekkrthakur/c...​
+
+      00:00​ Introduction
+      01:10​ Data & Config
+      04:30​ Dataset
+      13:45​ Training File Part - 1
+      26:16​ Data View
+      30:30​ Engine
+      34:38​ Model
+      58:28​ Train File Part - 2
+      1:12:35​ Training and Inference 
+
+### Note:
+
+This tutorial was heavily inspired by Aakash Nain's code example available in keras blog: https://keras.io/examples/vision/capt...​
+
+Connect with him on LinkedIn: https://in.linkedin.com/in/aakash-kum...
+
+-------
+
